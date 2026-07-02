@@ -1,3 +1,7 @@
+#########
+# Run this locally using:  shiny::runApp()
+#########
+
 library(shiny)
 library(tidyverse)
 library(lubridate)
